@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cityclub.chernivtsi.space/sitemap.xml
+Sitemap: https://cityclub.hotelup.work/sitemap.xml
